@@ -1,0 +1,36 @@
+/*selectores{estilos}
+tipos de selectores 
+1-Etiquetas h1,p
+2-clase .+Nombre partes de un grupo de etiquetas
+3-Id #+nombre id que tiene una etiqueta*/
+body{
+    background-color: red;}
+
+.Fondoverde{
+    background-color:blue
+}
+h2 {background-color: aqua;font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;}
+
+#tituloprincipal{
+    background-color:#66ec9e;
+
+    width: 400px;
+    height: 50px; 
+    display: block;}
+    button{
+        display: block;
+        background-color: blueviolet;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
+    #ave{width: 300px;}
+    .texto2{
+        width: 25%;
+        height: 40vh;
+    }
+    #textounico{
+        background-image: url(./Imagenes/stefan-kunze-Jw20jcOHRII-unsplash.jpg);
+    }
+    ul{
+        background-color: beige;
+        width: 50%;
+    }
